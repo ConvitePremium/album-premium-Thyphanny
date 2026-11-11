@@ -1,0 +1,5 @@
+Álbum Online — Thyphanny 15 anos
+Paleta: tons de rosa.
+Evento Supabase: thyphanny-15-anos
+Bucket: fotos-eventos
+A pasta no Supabase Storage aparece após o primeiro upload bem-sucedido.
